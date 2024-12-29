@@ -4,7 +4,7 @@ SOC Analyst<br>
 BSc. Cybersecurity & Digital Forensics
 ---
 ## 🪪 Certifications:
-### BLue Team Level 1: [![Credly](https://img.shields.io/badge/Achieved-blue?logo=credly)](https://www.credly.com/badges/29026b4b-6ad7-41df-ace3-3b2d52b50838/linked_in?t=sent2g)<br>
+### BLue Team Level 1: [![Credly](https://img.shields.io/badge/Achieved-blue?style=for-the-badge)](https://www.credly.com/badges/29026b4b-6ad7-41df-ace3-3b2d52b50838/linked_in?t=sent2g)<br>
 ### TCM Security PSAA: [██████████████████░░░░░░] 75%
 ### TCM Security PJPT: [████████████░░░░░░░░░░░░] 50%
 ### TCM Security PMRP: [PENDING]
