@@ -1,7 +1,7 @@
 # 💫 About Me:<br>
-Incident Response<br>
-SOC Analyst<br>
-BSc. Cybersecurity & Digital Forensics
+Title: SOC Analyst<br>
+Job Role: Incident Response<br>
+Qualifications: BSc. Cybersecurity & Digital Forensics
 ---
 ## 🪪 Certifications:
 ### BLue Team Level 1: [![Credly](https://img.shields.io/badge/Achieved-blue?style=for-the-badge)](https://www.credly.com/badges/29026b4b-6ad7-41df-ace3-3b2d52b50838/linked_in?t=sent2g)<br>
