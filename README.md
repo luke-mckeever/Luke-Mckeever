@@ -20,7 +20,14 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
 
 ---
 ## 🛠️ Tools:
-To be added at a later date
+📂 [**GitHub Repository: PDF Tools**](https://github.com/luke-mckeever/Knowledge_Base/tree/main/Tools/Malware_Analysis_Tools/PDF_Tools)  
+✨ Dive into the repository to discover cutting-edge resources for PDF analysis. 💻
+
+🗂️ [**GitHub Repository: Malware Analysis Tools**](https://github.com/luke-mckeever/Knowledge_Base/tree/main/Tools/Malware_Analysis_Tools)  
+🚨 Enhance your cybersecurity arsenal with these essential resources for combating malware. 🖥️
+
+📥 [**Download PE Studio (v9.59)**](https://github.com/luke-mckeever/Knowledge_Base/blob/main/Tools/Malware_Analysis_Tools/pestudio-9.59.zip)  
+🔍 A must-have tool for professionals in malware analysis and reverse engineering. 🚀
 
 ---
 ## 💻 Tech Stack:
