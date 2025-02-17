@@ -5,9 +5,9 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
 ---
 ## 🪪 Certifications:
 ### BLue Team Level 1: [![Credly](https://img.shields.io/badge/Achieved-blue?style=for-the-badge)](https://www.credly.com/badges/29026b4b-6ad7-41df-ace3-3b2d52b50838/linked_in?t=sent2g)<br>
-### TCM Security PSAA: [██████████████████░░░░░░] 75%
+### TCM Security PSAA: [██████████████████████░░] 90%
 ### TCM Security PJPT: [████████████░░░░░░░░░░░░] 50%
-### TCM Security PMRP: [PENDING]
+### TCM Security PMRP: [░░░░░░░░░░░░░░░░░░░░░░░░] 0%
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luke-mckeever-527b2018a) 
