@@ -1,4 +1,4 @@
-# 💫 About Me:<br>
+# 💫 WhoAmI:<br>
 Title: SOC Analyst<br>
 Job Role: Incident Response<br>
 Qualifications: BSc. Cybersecurity & Digital Forensics
