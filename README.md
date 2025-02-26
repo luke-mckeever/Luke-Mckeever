@@ -5,9 +5,9 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
 ---
 ## 🪪 Certifications:
 ### BLue Team Level 1: [![Credly](https://img.shields.io/badge/Achieved-blue?style=for-the-badge)](https://www.credly.com/badges/29026b4b-6ad7-41df-ace3-3b2d52b50838/linked_in?t=sent2g)<br>
-### TCM Security PSAA: [██████████████████████░░] 90%
+### TCM Security PSAA: [████████████████████████] 100%
 ### TCM Security PJPT: [████████████░░░░░░░░░░░░] 50%
-### TCM Security PMRP: [░░░░░░░░░░░░░░░░░░░░░░░░] 0%
+### TCM Security PMRP: [██░░░░░░░░░░░░░░░░░░░░░░] 20%
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luke-mckeever-527b2018a) 
@@ -20,14 +20,13 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
 
 ---
 ## 🛠️ Tools:
-📂 [**GitHub Repository: PDF Tools**](https://github.com/luke-mckeever/Knowledge_Base/tree/main/Tools/Malware_Analysis_Tools/PDF_Tools)  
-✨ Dive into the repository to discover cutting-edge resources for PDF analysis. 💻
 
-🗂️ [**GitHub Repository: Malware Analysis Tools**](https://github.com/luke-mckeever/Knowledge_Base/tree/main/Tools/Malware_Analysis_Tools)  
-🚨 Enhance your cybersecurity arsenal with these essential resources for combating malware. 🖥️
-
-📥 [**Download PE Studio (v9.59)**](https://github.com/luke-mckeever/Knowledge_Base/blob/main/Tools/Malware_Analysis_Tools/pestudio-9.59.zip)  
-🔍 A must-have tool for professionals in malware analysis and reverse engineering. 🚀
+### 🔎 OSINT.py
+🗂️ [**Work In Progress (not available yet)**](https://github.com/luke-mckeever/XXXXXXX)  
+🚨 I'm cooking up a cool new OSINT tool that acts like a detective for the digital age. 
+It checks in with top-notch OSINT providers like URLScan.io, VirusTotal, and AbuseIPDB to figure out if something shady's going on with any indicators of compromise (IOCs)—think hashes, domains, emails, URLs, you name it. 
+It's still under wraps but should be hitting the streets soon. 
+Plus, I'm also tinkering with an AI sidekick that'll scour the internet for any chatter about these IOCs. Stay tuned! 🖥️
 
 ---
 ## 💻 Tech Stack:
