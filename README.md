@@ -2,12 +2,14 @@
 Title: SOC Analyst<br>
 Job Role: Incident Response<br>
 Qualifications: BSc. Cybersecurity & Digital Forensics
+
 ---
 ## 🪪 Certifications:
-### BLue Team Level 1: [![Credly](https://img.shields.io/badge/Achieved-blue?style=for-the-badge)](https://www.credly.com/badges/29026b4b-6ad7-41df-ace3-3b2d52b50838/linked_in?t=sent2g)<br>
-### TCM Security PSAA: [████████████████████████] 100%
+### BLue Team Level 1: [![View My Cert](https://img.shields.io/badge/Achieved-blue?style=for-the-badge)](https://www.credly.com/badges/29026b4b-6ad7-41df-ace3-3b2d52b50838/linked_in?t=sent2g)<br>
+### TCM Security PSAA: [![View My Cert](https://img.shields.io/badge/Achieved-blue?style=for-the-badge)](https://certified.tcm-sec.com/4d5cdd1c-a80a-415d-8319-80df85715484)<br>
 ### TCM Security PJPT: [████████████░░░░░░░░░░░░] 50%
 ### TCM Security PMRP: [██░░░░░░░░░░░░░░░░░░░░░░] 20%
+
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luke-mckeever-527b2018a) 
