@@ -24,7 +24,6 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
     <img src="https://img.shields.io/badge/View%20Badge%20Here-blue?style=for-the-badge">
   </a>
 </p>
-<br>
 
 ---
 
