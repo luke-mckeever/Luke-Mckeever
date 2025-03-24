@@ -19,7 +19,7 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
 ---
 
 ## 🌐 Socials:
-Ping me on:
+Ping me on:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luke-mckeever-527b2018a) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/http://discordapp.com/users/merta12300) 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Merta123000)
