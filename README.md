@@ -1,4 +1,4 @@
-# 💫 WhoAmI:<br>
+# 💫 ~$ whoami:<br>
 Title: SOC Analyst<br>
 Job Role: Incident Response<br>
 Qualifications: BSc. Cybersecurity & Digital Forensics
