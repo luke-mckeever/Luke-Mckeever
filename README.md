@@ -8,7 +8,7 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
 ### BLue Team Level 1: [View My Cert Here!](https://www.credly.com/badges/29026b4b-6ad7-41df-ace3-3b2d52b50838/linked_in?t=sent2g)<br>
 ### TCM Security PSAA: [View My Cert Here!](https://certified.tcm-sec.com/4d5cdd1c-a80a-415d-8319-80df85715484)<br>
 ### TCM Security PJPT: [████████████░░░░░░░░░░░░] 50%
-### TCM Security PMRP: [██░░░░░░░░░░░░░░░░░░░░░░] 20%
+### TCM Security PMRP: [████████████░░░░░░░░░░░░] 50%
 
 ---
 ## 🌐 Socials:
@@ -21,7 +21,15 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
 
 
 ---
-## 🛠️ Tools:
+## 🛠️ Tools & Projects:
+🗂️ Cyber Vault (Accessible Here -> [Cyber_Vault](https://github.com/luke-mckeever/Cyber_Vault))
+🚀 Cyber Vault is a long-term project built on the belief that cybersecurity knowledge and training should be free and accessible to everyone.
+This ever-growing repository is packed with Markdown-based resources, covering a vast range of cybersecurity topics. Right now, it's structured into three key sections:
+🔹 Cheatsheets – Quick-reference guides for tools, commands, and techniques.
+🔹 Knowledge Articles – In-depth explanations on cybersecurity concepts, best practices, and emerging threats.
+🔹 Tooling – A collection of useful cybersecurity tools, scripts, and configurations.
+There's a ton of information here, but don't worry—I’ve added handy links to make navigation easier. This project will keep evolving with regular updates, ensuring the latest and greatest cybersecurity insights are always at your fingertips.
+Stay tuned for more! 🔐💻
 
 ### 🔎 OSINT.py
 🗂️ [**Work In Progress (not available yet)**](https://github.com/luke-mckeever/XXXXXXX)  
