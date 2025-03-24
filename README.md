@@ -1,3 +1,7 @@
+![Canva Design](https://www.canva.com/design/DAGiq3-gM3M/H-v4iEea8szpuG9yACvgIA/view?utm_content=DAGiq3-gM3M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h20957d9350)
+
+---
+
 # 💫 ~$ whoami:<br>
 Title: SOC Analyst<br>
 Job Role: Incident Response<br>
@@ -5,13 +9,21 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
 
 ---
 ## 🪪 Certifications:
-### BLue Team Level 1: [View My Cert Here!](https://www.credly.com/badges/29026b4b-6ad7-41df-ace3-3b2d52b50838)<br>
-### TCM Security PSAA: [View My Cert Here!](https://certified.tcm-sec.com/4d5cdd1c-a80a-415d-8319-80df85715484)<br>
-![](https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob)
-![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136967699)
+<p align="center">
+  <a href="https://certified.tcm-sec.com/4d5cdd1c-a80a-415d-8319-80df85715484">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136967699" height="300">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/29026b4b-6ad7-41df-ace3-3b2d52b50838">
+    <img src="https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob" height="300">
+  </a>
+</p>
+
+
 ---
+
 ## 🌐 Socials:
-Ping me on:
+Ping me on:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luke-mckeever-527b2018a) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/http://discordapp.com/users/merta12300) 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Merta123000)
