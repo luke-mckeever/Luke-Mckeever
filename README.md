@@ -32,11 +32,11 @@ There's a ton of information here, but don't worry—I’ve added handy links to
 Stay tuned for more! 🔐💻<br>
 
 ### 🔎 OSINT.py
-🗂️ [**Work In Progress (not available yet)**](https://github.com/luke-mckeever/XXXXXXX)  
-🚨 I'm cooking up a cool new OSINT tool that acts like a detective for the digital age. 
-It checks in with top-notch OSINT providers like URLScan.io, VirusTotal, and AbuseIPDB to figure out if something shady's going on with any indicators of compromise (IOCs)—think hashes, domains, emails, URLs, you name it. 
-It's still under wraps but should be hitting the streets soon. 
-Plus, I'm also tinkering with an AI sidekick that'll scour the internet for any chatter about these IOCs. Stay tuned! 🖥️
+🗂️ [**Work In Progress (not available yet)**](https://github.com/luke-mckeever/XXXXXXX) <br>
+🚨 I'm cooking up a cool new OSINT tool that acts like a detective for the digital age. <br>
+It checks in with top-notch OSINT providers like URLScan.io, VirusTotal, and AbuseIPDB to figure out if something shady's going on with any indicators of compromise (IOCs)—think hashes, domains, emails, URLs, you name it. <br>
+It's still under wraps but should be hitting the streets soon. <br>
+Plus, I'm also tinkering with an AI sidekick that'll scour the internet for any chatter about these IOCs. Stay tuned! 🖥️<br>
 
 ---
 ## 💻 Tech Stack:
