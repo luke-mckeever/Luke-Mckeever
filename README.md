@@ -6,8 +6,8 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
 ---
 ## 🪪 Certifications:
 <p align="center">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136967699" height="150">
-  <img src="https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob" height="150">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136967699" height="300">
+  <img src="https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob" height="300">
 </p><br>
 
 ---
