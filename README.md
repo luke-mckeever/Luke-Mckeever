@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://www.canva.com/design/DAGiq7QCPXI/uhl39NLTPvj9tjt-KEh3lw/watch?utm_content=DAGiq7QCPXI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8a5e90bf74">
-    <img src="https://www.canva.com/design/DAGiq7QCPXI/uhl39NLTPvj9tjt-KEh3lw/watch?utm_content=DAGiq7QCPXI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8a5e90bf74" alt="Watch Video" width="600">
-  </a>
-</p>
+![Canva Design](https://www.canva.com/design/DAGiq3-gM3M/H-v4iEea8szpuG9yACvgIA/view?utm_content=DAGiq3-gM3M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h20957d9350)
 
 ---
 
