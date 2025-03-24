@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="[https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136967699](https://www.canva.com/design/DAGiq7QCPXI/uhl39NLTPvj9tjt-KEh3lw/watch?utm_content=DAGiq7QCPXI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8a5e90bf74)" height="150">
-  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.canva.com/design/DAGiq7QCPXI/uhl39NLTPvj9tjt-KEh3lw/watch?utm_content=DAGiq7QCPXI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8a5e90bf74">
+    <img src="https://www.canva.com/design/DAGiq7QCPXI/uhl39NLTPvj9tjt-KEh3lw/watch?utm_content=DAGiq7QCPXI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8a5e90bf74" alt="Watch Video" width="600">
+  </a>
 </p>
 
 ---
