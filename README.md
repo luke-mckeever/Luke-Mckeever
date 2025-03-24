@@ -1,4 +1,8 @@
-![Welcome](https://github.com/luke-mckeever/Luke-Mckeever/blob/main/images/background.png)
+<p align="center">
+  <a href="[https://certified.tcm-sec.com/4d5cdd1c-a80a-415d-8319-80df85715484](https://github.com/luke-mckeever)">
+    <img src="https://github.com/luke-mckeever/Luke-Mckeever/blob/main/images/background.png" height="200">
+  </a>
+</p>
 
 ---
 
@@ -11,11 +15,11 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
 ## 🪪 Certifications:
 <p align="center">
   <a href="https://certified.tcm-sec.com/4d5cdd1c-a80a-415d-8319-80df85715484">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136967699" height="300">
+    <img src="https://github.com/luke-mckeever/Luke-Mckeever/blob/main/images/PSAA_Badge.png" height="200">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/29026b4b-6ad7-41df-ace3-3b2d52b50838">
-    <img src="https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob" height="300">
+    <img src="https://github.com/luke-mckeever/Luke-Mckeever/blob/main/images/blob.png" height="200">
   </a>
 </p>
 
