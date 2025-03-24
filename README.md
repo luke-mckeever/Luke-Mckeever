@@ -131,8 +131,4 @@ Plus, I'm also tinkering with an AI sidekick that'll scour the internet for any 
 ---
 
 ## 🙏 Thank You!
-
-Thank you for visiting this repository! 🎉 If you found it helpful or interesting:
-
-- ⭐ **Star** this repository to show your support!
-- 📝 **Contribute** by submitting issues or pull requests.
+Thank you for visiting my repository! 🎉 
