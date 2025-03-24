@@ -6,10 +6,12 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
 ---
 ## 🪪 Certifications:
 <p align="center">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136967699" height="50">
-  <img src="https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob" height="50">
-</p>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136967699" height="150">
+  <img src="https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob" height="150">
+</p><br>
+
 ---
+
 ## 🌐 Socials:
 Ping me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luke-mckeever-527b2018a) 
