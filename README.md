@@ -17,11 +17,11 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
 
 <p align="center">
   <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136967699">
-    <img src="https://img.shields.io/badge/View%20Badge-Click%20Here-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/View%20Badge%20Here-blue?style=for-the-badge">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob">
-    <img src="https://img.shields.io/badge/View%20Badge-Click%20Here-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/View%20Badge%20Here-blue?style=for-the-badge">
   </a>
 </p>
 <br>
