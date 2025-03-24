@@ -5,10 +5,10 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
 
 ---
 ## 🪪 Certifications:
-### BLue Team Level 1: [View My Cert Here!](https://www.credly.com/badges/29026b4b-6ad7-41df-ace3-3b2d52b50838)<br>
-### TCM Security PSAA: [View My Cert Here!](https://certified.tcm-sec.com/4d5cdd1c-a80a-415d-8319-80df85715484)<br>
-![](https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob)
-![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136967699)
+<p align="center">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136967699" height="50">
+  <img src="https://images.credly.com/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob" height="50">
+</p>
 ---
 ## 🌐 Socials:
 Ping me on:
