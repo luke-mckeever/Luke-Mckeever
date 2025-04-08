@@ -49,7 +49,7 @@ This ever-growing repository is packed with Markdown-based resources, covering a
 There's a ton of information here, but don't worry—I’ve added handy links to make navigation easier. This project will keep evolving with regular updates, ensuring the latest and greatest cybersecurity insights are always at your fingertips.
 Stay tuned for more! 🔐💻<br>
 
-### 🔎 OSINT.py - **Work In Progress**<br>
+### 🔎 OSINT.py<br>
 🗂️ OSINT.py (Accessible Here -> [OSINT.py](https://github.com/luke-mckeever/OSINT.py)) <br>
 🚨 I'm cooking up a cool new OSINT tool that acts like a detective for the digital age. <br>
 It checks in with top-notch OSINT providers like URLScan.io, VirusTotal, and AbuseIPDB to figure out if something shady's going on with any indicators of compromise (IOCs)—think hashes, domains, emails, URLs, you name it. <br>
