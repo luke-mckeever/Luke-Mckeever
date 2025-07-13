@@ -53,8 +53,12 @@ Stay tuned for more! 🔐💻<br>
 🗂️ OSINT.py (Accessible Here -> [OSINT.py](https://github.com/luke-mckeever/OSINT.py)) <br>
 🚨 I'm cooking up a cool new OSINT tool that acts like a detective for the digital age. <br>
 It checks in with top-notch OSINT providers like URLScan.io, VirusTotal, and AbuseIPDB to figure out if something shady's going on with any indicators of compromise (IOCs)—think hashes, domains, emails, URLs, you name it. <br>
-It's still under wraps but should be hitting the streets soon. <br>
-Plus, I'm also tinkering with an AI sidekick that'll scour the internet for any chatter about these IOCs. Stay tuned! 🖥️<br>
+I'm also tinkering with an AI sidekick that'll scour the internet for any chatter about these IOCs. Stay tuned! 🖥️<br>
+
+### 🔎 My_Tool_Suite.py<br>
+🗂️ OSINT.py (Accessible Here -> [OSINT.py](https://github.com/luke-mckeever/My_Tool_Suite)) <br>
+🚨 your go-to arsenal of Python-powered scripts for wrecking threats and locking down systems. <br>
+Whether you're tracing IOCs in the trenches or launching red team ops like a shadow in the night, this toolkit's got your back. One repo. Dual power. Total control. 💻💥🔐
 
 ---
 ## 💻 Tech Stack:
