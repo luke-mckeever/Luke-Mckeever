@@ -7,7 +7,7 @@
 ---
 
 # ~$ whoami:<br>
-Title: SOC Analyst<br>
+Title: Lead Cyber Security Analyst<br>
 Job Role: Incident Response<br>
 Qualifications: BSc. Cybersecurity & Digital Forensics
 
