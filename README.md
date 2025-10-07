@@ -17,7 +17,7 @@ Qualifications: BSc. Cybersecurity & Digital Forensics
   <a href="https://certified.tcm-sec.com/4d5cdd1c-a80a-415d-8319-80df85715484">
     <img src="https://github.com/luke-mckeever/Luke-Mckeever/blob/main/images/PSAA_Badge.png" height="200">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/29026b4b-6ad7-41df-ace3-3b2d52b50838">
     <img src="https://github.com/luke-mckeever/Luke-Mckeever/blob/main/images/blob.png" height="200">
   </a>
