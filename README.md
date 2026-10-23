@@ -12,6 +12,7 @@ Job Role: Incident Response<br>
 Qualifications: BSc. Cybersecurity & Digital Forensics
 
 ---
+
 ## 🪪 Certifications:
 <p align="center">
   <a href="https://certified.tcm-sec.com/4d5cdd1c-a80a-415d-8319-80df85715484">
@@ -44,11 +45,13 @@ This ever-growing repository is packed with Markdown-based resources, covering a
 There's a ton of information here, but don't worry—I’ve added handy links to make navigation easier. This project will keep evolving with regular updates, ensuring the latest and greatest cybersecurity insights are always at your fingertips.
 Stay tuned for more! 🔐💻<br>
 
-### 🔎 OSINT.py<br>
-🗂️ OSINT.py (Accessible Here -> [OSINT.py](https://github.com/luke-mckeever/OSINT.py)) <br>
-🚨 I'm cooking up a cool new OSINT tool that acts like a detective for the digital age. <br>
-It checks in with top-notch OSINT providers like URLScan.io, VirusTotal, and AbuseIPDB to figure out if something shady's going on with any indicators of compromise (IOCs)—think hashes, domains, emails, URLs, you name it. <br>
-I'm also tinkering with an AI sidekick that'll scour the internet for any chatter about these IOCs. Stay tuned! 🖥️<br>
+### 🕸️ ARACHNE
+🗂️ Explore the project here -> [ARACHNE Repository](https://github.com/luke-mckeever/ARACHNE)<br>
+🔎 ARACHNE is a self-hosted OSINT pivot engine that turns a single indicator into a wider picture of its digital connections.<br>
+🧭 Enter an IP address, domain, URL, email, username, file hash, ASN or CVE, and ARACHNE queries OSINT and threat-intelligence sources before automatically pivoting on related findings.<br>
+🕸️ Its live spiderweb graph maps relationships between indicators, highlighting malicious or suspicious results as they come in.<br>
+📊 Save and revisit scans, explore connections, and export findings as HTML, JSON, CSV, an IOC list or a graph image—all from a local interface.<br>
+Built to make investigating indicators easier, without constantly jumping between tabs. 🖥️
 
 ### 🔎 My_Tool_Suite.py<br>
 🗂️ OSINT.py (Accessible Here -> [My_Tool_Suite](https://github.com/luke-mckeever/My_Tool_Suite)) <br>
@@ -139,7 +142,7 @@ Whether you're tracing IOCs in the trenches or launching red team ops like a sha
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-%23394EFF.svg?style=for-the-badge&logo=virustotal&logoColor=white)
 ![VMware](https://img.shields.io/badge/Vmware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A1.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-%230C6EFC.svg?style=for-the-badge&logo=wix&logoColor=white)
 ![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)
 ![Yubico](https://img.shields.io/badge/Yubico-%2384BD00.svg?style=for-the-badge&logo=yubico&logoColor=white)
