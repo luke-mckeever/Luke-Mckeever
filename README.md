@@ -142,7 +142,7 @@ Whether you're tracing IOCs in the trenches or launching red team ops like a sha
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-%23394EFF.svg?style=for-the-badge&logo=virustotal&logoColor=white)
 ![VMware](https://img.shields.io/badge/Vmware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A1.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-%230C6EFC.svg?style=for-the-badge&logo=wix&logoColor=white)
 ![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)
 ![Yubico](https://img.shields.io/badge/Yubico-%2384BD00.svg?style=for-the-badge&logo=yubico&logoColor=white)
