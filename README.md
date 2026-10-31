@@ -46,14 +46,14 @@ There's a ton of information here, but don't worry—I’ve added handy links to
 Stay tuned for more! 🔐💻<br>
 
 ### 🕸️ ARACHNE
-🗂️ **Explore the project here:** [ARACHNE Repository](https://github.com/luke-mckeever/ARACHNE)
-🔎 **ARACHNE** is a self-hosted IOC scanner and OSINT pivot engine. It gives you a fast verdict on any indicator, then maps its wider digital connections.
-🧭 Enter an IP address, domain, URL, email, username, file hash, ASN or CVE, or paste a whole list for a bulk scan. 
-ARACHNE checks it against threat-intelligence and OSINT sources and scores the risk before it pivots on related findings.
-🚦 Every indicator gets a clear risk score and verdict. Freshness tracking shows how current the results are, and you can re-scan with one click.
-🕸️ The live spiderweb graph maps relationships between indicators and highlights malicious or suspicious results as they come in.
-📊 Save and revisit scans, then export findings as PDF, STIX, HTML, JSON, CSV, an IOC list or a graph image. Everything runs from a local interface, and your API keys can be imported and exported with you.
-🖥️ *Built to make triaging and investigating indicators easier, without constantly jumping between tabs.*
+🗂️ **Explore the project here:** [ARACHNE Repository](https://github.com/luke-mckeever/ARACHNE)<br>
+🔎 **ARACHNE** is a self-hosted IOC scanner and OSINT pivot engine. It gives you a fast verdict on any indicator, then maps its wider digital connections.<br>
+🧭 Enter an IP address, domain, URL, email, username, file hash, ASN or CVE, or paste a whole list for a bulk scan. <br>
+ARACHNE checks it against threat-intelligence and OSINT sources and scores the risk before it pivots on related findings.<br>
+🚦 Every indicator gets a clear risk score and verdict. Freshness tracking shows how current the results are, and you can re-scan with one click.<br>
+🕸️ The live spiderweb graph maps relationships between indicators and highlights malicious or suspicious results as they come in.<br>
+📊 Save and revisit scans, then export findings as PDF, STIX, HTML, JSON, CSV, an IOC list or a graph image. Everything runs from a local interface, and your API keys can be imported and exported with you.<br>
+🖥️ *Built to make triaging and investigating indicators easier, without constantly jumping between tabs.*<br>
 
 ### 🔎 My_Tool_Suite.py<br>
 🗂️ OSINT.py (Accessible Here -> [My_Tool_Suite](https://github.com/luke-mckeever/My_Tool_Suite)) <br>
