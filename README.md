@@ -55,10 +55,14 @@ ARACHNE checks it against threat-intelligence and OSINT sources and scores the r
 📊 Save and revisit scans, then export findings as PDF, STIX, HTML, JSON, CSV, an IOC list or a graph image. Everything runs from a local interface, and your API keys can be imported and exported with you.<br>
 🖥️ *Built to make triaging and investigating indicators easier, without constantly jumping between tabs.*<br>
 
-### 🔎 My_Tool_Suite.py<br>
-🗂️ OSINT.py (Accessible Here -> [My_Tool_Suite](https://github.com/luke-mckeever/My_Tool_Suite)) <br>
-🚨 your go-to arsenal of Python-powered scripts for wrecking threats and locking down systems. <br>
-Whether you're tracing IOCs in the trenches or launching red team ops like a shadow in the night, this toolkit's got your back. One repo. Dual power. Total control. 💻💥🔐
+# 🦅 KESTREL
+🗂️ **Explore the project here:** [KESTREL Repository](https://github.com/luke-mckeever/KESTREL) **or try it live here:** [KESTREL Live Dashboard](https://kestral.lukemckeever12.workers.dev/)<br>
+🔎 **KESTREL** is a self-hosted cyber threat intelligence dashboard. It pulls live threat data into one place, so you can see what's happening across the threat landscape at a glance.<br>
+🗺️ **Map screen:** a live 2D threat map next to Threat Pressure, a Live Threat Feed, Latest Events, ransomware activity, and CISA's Known Exploited Vulnerabilities (KEV).<br>
+📊 **Analytics screen:** more panels with live charts, including the Threat Radar. It's built to sit on a second monitor.<br>
+🎛️ **Customisable:** drag and rearrange panels, and each screen remembers its own layout. Dark themes are built in, and **Obsidian** is the default.<br>
+⚙️ **Lightweight:** pure Python with no dependencies. Run `python kestrel.py` and open it in your browser. API keys stay in a local config file and never go into the repo.<br>
+🖥️ Built to keep threat intel always on screen, without jumping between a dozen feeds and tabs.<br>
 
 ---
 ## 💻 Tech Stack:
