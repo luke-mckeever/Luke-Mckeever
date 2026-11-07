@@ -46,7 +46,7 @@ There's a ton of information here, but don't worry—I’ve added handy links to
 Stay tuned for more! 🔐💻<br>
 
 ### 🕸️ ARACHNE
-🗂️ **Explore the project here:** [ARACHNE Repository](https://github.com/luke-mckeever/ARACHNE)<br>
+🗂️ **Explore the project here:** (Accessible Here -> [ARACHNE Repository](https://github.com/luke-mckeever/ARACHNE) or Webpage Available Here -> [arachne-app.site](arachne-app.site))<br>
 🔎 **ARACHNE** is a self-hosted IOC scanner and OSINT pivot engine. It gives you a fast verdict on any indicator, then maps its wider digital connections.<br>
 🧭 Enter an IP address, domain, URL, email, username, file hash, ASN or CVE, or paste a whole list for a bulk scan. <br>
 ARACHNE checks it against threat-intelligence and OSINT sources and scores the risk before it pivots on related findings.<br>
