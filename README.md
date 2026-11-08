@@ -36,33 +36,47 @@ Ping me on:<br>
 ## 🛠️ Tools & Projects:<br>
 
 ### 🔎 Cyber_Vault
-🗂️ Cyber Vault (Accessible Here -> [Cyber_Vault Repo](https://github.com/luke-mckeever/Cyber_Vault) or Webpage Available Here -> [Cyber_Vault Web](https://cyber-vault.lukemckeever12.workers.dev/))<br>
-🚀 Cyber Vault is a long-term project built on the belief that cybersecurity knowledge and training should be free and accessible to everyone.<br>
-This ever-growing repository is packed with Markdown-based resources, covering a vast range of cybersecurity topics. Right now, it's structured into three key sections:<br>
-🔹 Cheatsheets – Quick-reference guides for tools, commands, and techniques.<br>
-🔹 Knowledge Articles – In-depth explanations on cybersecurity concepts, best practices, and emerging threats.<br>
-🔹 Tooling – A collection of useful cybersecurity tools, scripts, and configurations.<br>
-There's a ton of information here, but don't worry—I’ve added handy links to make navigation easier. This project will keep evolving with regular updates, ensuring the latest and greatest cybersecurity insights are always at your fingertips.
-Stay tuned for more! 🔐💻<br>
+🗂️ **Explore:** [GitHub Repository](https://github.com/luke-mckeever/Cyber_Vault) | [Web Version](https://cyber-vault.lukemckeever12.workers.dev/)<br>
+
+Cyber_Vault is a long-term project built on the belief that cybersecurity knowledge and training should be free and accessible to everyone.<br>
+The repository is a collection of cybersecurity resources, notes and references covering a range of topics within the industry.<br>
+
+The repository is organised into several sections:<br>
+- **Cheatsheets** – Quick references for commonly used tools, commands and techniques.<br>
+- **Knowledge Articles** – Documentation and notes covering cybersecurity concepts, technologies and methodologies.<br>
+- **Tooling** – Useful scripts, utilities and configurations for security-related tasks.<br>
+
+The repository is updated as new material is added and existing resources are expanded.<br>
 
 ### 🕸️ ARACHNE
-🗂️ **Explore the project here:** (Accessible Here -> [ARACHNE Repository](https://github.com/luke-mckeever/ARACHNE) or Webpage Available Here -> [arachne-app.site](arachne-app.site))<br>
-🔎 **ARACHNE** is a self-hosted IOC scanner and OSINT pivot engine. It gives you a fast verdict on any indicator, then maps its wider digital connections.<br>
-🧭 Enter an IP address, domain, URL, email, username, file hash, ASN or CVE, or paste a whole list for a bulk scan. <br>
-ARACHNE checks it against threat-intelligence and OSINT sources and scores the risk before it pivots on related findings.<br>
-🚦 Every indicator gets a clear risk score and verdict. Freshness tracking shows how current the results are, and you can re-scan with one click.<br>
-🕸️ The live spiderweb graph maps relationships between indicators and highlights malicious or suspicious results as they come in.<br>
-📊 Save and revisit scans, then export findings as PDF, STIX, HTML, JSON, CSV, an IOC list or a graph image. Everything runs from a local interface, and your API keys can be imported and exported with you.<br>
-🖥️ *Built to make triaging and investigating indicators easier, without constantly jumping between tabs.*<br>
+🗂️ **Explore:** [GitHub Repository](https://github.com/luke-mckeever/ARACHNE) | [Live Application](https://arachne-app.site/)<br>
+
+ARACHNE is a self-hosted IOC scanner and OSINT investigation tool designed to bring multiple intelligence sources and investigation capabilities into one interface.<br>
+It supports a range of indicator types, including IP addresses, domains, URLs, email addresses, usernames, file hashes, ASNs and CVEs, with support for bulk scanning.<br>
+
+Key features include:<br>
+- **IOC Analysis** – Query multiple threat intelligence and OSINT providers to gather information about submitted indicators.<br>
+- **Risk Assessment** – Generate risk scores and verdicts based on collected results.<br>
+- **OSINT Pivoting** – Identify relationships between indicators and explore connected infrastructure.<br>
+- **Relationship Graph** – Visualise connections between indicators using an interactive graph.<br>
+- **Scan History** – Save and revisit previous investigations.<br>
+- **Export Options** – Export results in PDF, STIX, HTML, JSON, CSV and other formats.<br>
+- **Local Configuration** – Manage API keys and configuration locally.<br>
 
 ### 🦅 KESTREL
-🗂️ **Explore the project here:** [KESTREL Repository](https://github.com/luke-mckeever/KESTREL) **or try it live here:** [KESTREL Live Dashboard](https://kestrel-app.site/)<br>
-🔎 **KESTREL** is a self-hosted cyber threat intelligence dashboard. It pulls live threat data into one place, so you can see what's happening across the threat landscape at a glance.<br>
-🗺️ **Map screen:** a live 2D threat map next to Threat Pressure, a Live Threat Feed, Latest Events, ransomware activity, and CISA's Known Exploited Vulnerabilities (KEV).<br>
-📊 **Analytics screen:** more panels with live charts, including the Threat Radar. It's built to sit on a second monitor.<br>
-🎛️ **Customisable:** drag and rearrange panels, and each screen remembers its own layout. Dark themes are built in, and **Obsidian** is the default.<br>
-⚙️ **Lightweight:** pure Python with no dependencies. Run `python kestrel.py` and open it in your browser. API keys stay in a local config file and never go into the repo.<br>
-🖥️ Built to keep threat intel always on screen, without jumping between a dozen feeds and tabs.<br>
+🗂️ **Explore:** [GitHub Repository](https://github.com/luke-mckeever/KESTREL) | [Live Dashboard](https://kestrel-app.site/)<br>
+
+KESTREL is a self-hosted cyber threat intelligence dashboard that aggregates threat information from various sources into a single interface.<br>
+The dashboard provides an overview of current threat activity, with separate screens for monitoring and analysing threat intelligence.<br>
+
+- **Threat Map** – A 2D map displaying threat activity alongside a live threat feed, recent events, ransomware activity and CISA Known Exploited Vulnerabilities (KEV).<br>
+- **Analytics** – Charts and visualisations providing an overview of threat activity and trends.<br>
+- **Customisable Layout** – Dashboard panels can be rearranged, with individual layouts saved for each screen.<br>
+- **Themes** – Includes multiple themes, with Obsidian as the default.<br>
+- **Lightweight Setup** – Built with Python and designed to run locally through a web browser.<br>
+- **Configuration** – API keys and settings are maintained in a local configuration file rather than committed to the repository.<br>
+
+The dashboard is designed for continuous monitoring and can be displayed on a dedicated screen or used as a central reference point for threat intelligence.<br>
 
 ---
 ## 💻 Tech Stack:
